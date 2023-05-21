@@ -2,16 +2,16 @@
 
 ![](https://github.com/julycrystal/julycrystal/blob/main/images/header.png?raw=true)
 
-* 🧐   Interested in full stack. Recent focus on Infra.
+* 🧐   Professional in full stack. Recent focus on Infra.
 * 🎓   Master of Science in Computer Science.
 * 🌱   Currently learning Cloud Computing, Advanced AI and 3D graphics.
-* 📚   Reading 《The Power of Positive Thinking》 《Rethinking Productivity in Software Engineering》.
+* 📚   Reading 《Code Complete》 《Rethinking Productivity in Software Engineering》.
 * 💻   With 5 years' computer science and technology education and 7 years' development working experience.
 * ⛵   Encouraging people for open source collaborations.
 
+<div>
 
 ---
-<div>
 
 <p>
   <img width="350" align='left' src="https://github.com/julycrystal/julycrystal/blob/main/images/boy-scout-rule.png?raw=true">
@@ -19,10 +19,17 @@
 
 ### Boy Scout Rule
 
-Leave your code better than you found it. 
+Leave your code better than you found it.<br />
+If your code needs comments, consider refactoring it so it doesn't.<br />
+Beauty is born of and found in simplicity.<br />
+Fixing bugs is not making progress. You aren't paid to debug. Debugging is waste.<br />
+One of software's biggest obstacles is smart people who purposefully propagate the guru myth.<br />
+A comment is of zero (or negative) value if it is wrong.<br />
+Write code as if you had to support it for the rest of your life.<br />
+
+---
 
 </div>
----
 
 
 <details>
