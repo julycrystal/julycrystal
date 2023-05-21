@@ -10,9 +10,10 @@
 * ⛵   Encouraging people for open source collaborations.
 
 
-  ---
+---
+<div>
 
- <p>
+<p>
   <img width="350" align='left' src="https://github.com/julycrystal/julycrystal/blob/main/images/boy-scout-rule.png?raw=true">
 </p>
 
@@ -20,7 +21,8 @@
 
 Leave your code better than you found it. 
 
-  ---
+</div>
+---
 
 
 <details>
