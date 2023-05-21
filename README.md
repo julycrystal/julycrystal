@@ -3,32 +3,29 @@
 ![](https://github.com/julycrystal/julycrystal/blob/main/images/header.png?raw=true)
 
 * 🧐   Interested in full stack. Recent focus on Infra.
-* 🎓   Master of Science in Software Engineering, B.S. in Computer Science. Major GPA 3.90/4.0, GPA 3.75/4.0, TOP 3%.
-* 🌱   Currently learning Linux, Rust, Solidity, Math & Philosophy.
-* 📚   Reading 《Systems Performance 2nd Ed.》《BPF Performance Tools book》.
+* 🎓   Master of Science in Computer Science.
+* 🌱   Currently learning Cloud Computing, Advanced AI and 3D graphics.
+* 📚   Reading 《The Power of Positive Thinking》 《Rethinking Productivity in Software Engineering》.
 * 💻   With 5 years' computer science and technology education and 7 years' development working experience.
 * ⛵   Encouraging people for open source collaborations.
 
 
   ---
- 
+
  <p>
   <img width="350" align='left' src="https://github.com/julycrystal/julycrystal/blob/main/images/boy-scout-rule.png?raw=true">
 </p>
- 
+
 ### Boy Scout Rule
 
-I love open source. I am not a heavy maintainer of any large libraries, but I really like the boyscout rule. I contribute to things as I come across issues that I think other people might struggle with. This may be things that are overlooked by someone who is deep into the library. I 💕 a good onboarding readme with good example.
+Leave your code better than you found it. 
 
- ---
+  ---
 
 
 <details>
   <summary>Some other achievements about me</summary>
   <br>
-
-* 📚   Skills I have:
-
 
 * 👑   Some GitHub statistical reports:
 
