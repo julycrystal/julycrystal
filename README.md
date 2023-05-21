@@ -22,7 +22,6 @@
 Leave your code better than you found it.<br />
 If your code needs comments, consider refactoring it so it doesn't.<br />
 Beauty is born of and found in simplicity.<br />
-Fixing bugs is not making progress. You aren't paid to debug. Debugging is waste.<br />
 One of software's biggest obstacles is smart people who purposefully propagate the guru myth.<br />
 A comment is of zero (or negative) value if it is wrong.<br />
 Write code as if you had to support it for the rest of your life.<br />
